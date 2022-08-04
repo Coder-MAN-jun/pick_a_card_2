@@ -3,3 +3,4 @@ suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # Буби, Черви, Кре
 
 
 puts "#{values.sample} of #{suits.sample}"
+
